@@ -2,16 +2,16 @@
 
 ##
 
-| ##  | Solutions                                                         |
-| --- | ----------------------------------------------------------------- |
-| 01  | [Order Summary Component](#order-summary-component)               |
-| 02  | [3 Column Preview Card Component](#column-preview-card-component) |
-| 03  | [Base Apparel Coming Soon Page](#base-apparel-coming-soon-page)   |
-| 04  | [Huddle Landing Page](#huddle-landing-page)                       |
-| 05  | [Social Media Dashboard](#social-media-dashboard)                 |
-| 06  | [Pricing Component](#pricing-component)                           |
-| 07  | [Time Tracking Dashboard](#time-tracking-dashboard)               |
-| 08  | in progress ...                                                   |
+|  #  | Solutions / Table of contents                                         |
+| :-: | :-------------------------------------------------------------------- |
+| 01  | [Order Summary Component](#01.-order-summary-component)               |
+| 02  | [3 Column Preview Card Component](#02.-column-preview-card-component) |
+| 03  | [Base Apparel Coming Soon Page](#03.-base-apparel-coming-soon-page)   |
+| 04  | [Huddle Landing Page](#04.-huddle-landing-page)                       |
+| 05  | [Social Media Dashboard](#05.-social-media-dashboard)                 |
+| 06  | [Pricing Component](#06.-pricing-component)                           |
+| 07  | [Time Tracking Dashboard](#07.-time-tracking-dashboard)               |
+| 08  | in progress ...                                                       |
 
 #
 
@@ -19,7 +19,7 @@
 
 ![screenshot](./assets/order-component.jpg)
 
-[View Live Site](https://lukaszkus.github.io/order-component/) | [Watch my code](https://github.com/lukaszkus/order-component) | [Go to solution](https://www.frontendmentor.io/solutions/order-summary-component-with-sass-bem-and-gulp-nT1yovet4)
+[View Live Site](https://lukaszkus.github.io/order-component/) :eyes: | [Watch my code](https://github.com/lukaszkus/order-component) | [Go to solution](https://www.frontendmentor.io/solutions/order-summary-component-with-sass-bem-and-gulp-nT1yovet4)
 
 #
 
