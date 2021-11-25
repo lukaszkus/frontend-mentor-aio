@@ -10,7 +10,7 @@
 | 04  | [Huddle Landing Page](#04.-huddle-landing-page)                       |
 | 05  | [Social Media Dashboard](#05.-social-media-dashboard)                 |
 | 06  | [Pricing Component](#06.-pricing-component)                           |
-| 07  | [Time Tracking Dashboard](#07.-time-tracking-dashboard)               |
+| 07  | [Time Tracking Dashboard](#-07.-time-tracking-dashboard)               |
 | 08  | in progress ...                                                       |
 
 #
