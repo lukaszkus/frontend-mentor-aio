@@ -1,15 +1,17 @@
 # Frontend Mentor All-in-One
 
-|  #  | Solutions / Table of contents                                        |
-| :-: | :------------------------------------------------------------------- |
-| 01  | [Order Summary Component](#01-order-summary-component)               |
-| 02  | [3 Column Preview Card Component](#02-column-preview-card-component) |
-| 03  | [Base Apparel Coming Soon Page](#03-base-apparel-coming-soon-page)   |
-| 04  | [Huddle Landing Page](#04-huddle-landing-page)                       |
-| 05  | [Social Media Dashboard](#05-social-media-dashboard)                 |
-| 06  | [Pricing Component](#06-pricing-component)                           |
-| 07  | [Time Tracking Dashboard](#07-time-tracking-dashboard)               |
-| 08  | in progress ...                                                      |
+This repository contains all my completed solutions from Frontend Mentor :muscle:.
+
+|  #  | Solutions / Table of contents                                          |
+| :-: | :--------------------------------------------------------------------- |
+| 01  | [Order Summary Component](#01-order-summary-component)                 |
+| 02  | [3 Column Preview Card Component](#02-3-column-preview-card-component) |
+| 03  | [Base Apparel Coming Soon Page](#03-base-apparel-coming-soon-page)     |
+| 04  | [Huddle Landing Page](#04-huddle-landing-page)                         |
+| 05  | [Social Media Dashboard](#05-social-media-dashboard)                   |
+| 06  | [Pricing Component](#06-pricing-component)                             |
+| 07  | [Time Tracking Dashboard](#07-time-tracking-dashboard)                 |
+| 08  | in progress ...                                                        |
 
 ## 01. Order Summary Component
 
