@@ -2,7 +2,7 @@
 
 This repository contains all my completed solutions from Frontend Mentor :muscle:.
 
-|  #  | Solutions / Table of contents                                          |
+|  #  | Solutions / Table of content                                           |
 | :-: | :--------------------------------------------------------------------- |
 | 01  | [Order Summary Component](#01-order-summary-component)                 |
 | 02  | [3 Column Preview Card Component](#02-3-column-preview-card-component) |
@@ -75,3 +75,7 @@ This repository contains all my completed solutions from Frontend Mentor :muscle
 ![screenshot](./assets/easybank-landing-page.jpg)
 
 [View Live Site](https://lukaszkus.github.io/easybank-landing-page/) | [Watch my code](https://github.com/lukaszkus/easybank-landing-page) | [Go to solution](https://www.frontendmentor.io/solutions/easybank-landing-page-using-sass-and-vanilla-js-_gXh6k8lG)
+
+#
+
+:arrow_up: [Table of content](#frontend-mentor-all-in-one)
