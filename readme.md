@@ -78,4 +78,4 @@ This repository contains all my completed solutions from Frontend Mentor :muscle
 
 #
 
-:arrow_up: [Table of content](#frontend-mentor-all-in-one)
+[Table of content](#frontend-mentor-all-in-one) :point_up:
