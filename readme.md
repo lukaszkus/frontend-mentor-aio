@@ -11,7 +11,7 @@ This repository contains all my completed solutions from Frontend Mentor :muscle
 | 05  | [Social Media Dashboard](#05-social-media-dashboard)                   |
 | 06  | [Pricing Component](#06-pricing-component)                             |
 | 07  | [Time Tracking Dashboard](#07-time-tracking-dashboard)                 |
-| 08  | [Easybank Landing Page](#08-easybanek-landing-page)                    |
+| 08  | [Easybank Landing Page](#08-easybank-landing-page)                     |
 | 09  | in progress ...                                                        |
 
 ## 01. Order Summary Component
