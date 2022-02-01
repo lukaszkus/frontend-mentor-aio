@@ -12,7 +12,8 @@ This repository contains all my completed solutions from Frontend Mentor :muscle
 | 06  | [Pricing Component](#06-pricing-component)                             |
 | 07  | [Time Tracking Dashboard](#07-time-tracking-dashboard)                 |
 | 08  | [Easybank Landing Page](#08-easybank-landing-page)                     |
-| 09  | in progress ...                                                        |
+| 09  | [TODO App](#09-todo-app)                                               |
+| 10  | in progress ...                                                        |
 
 ## 01. Order Summary Component
 
@@ -75,6 +76,14 @@ This repository contains all my completed solutions from Frontend Mentor :muscle
 ![screenshot](./assets/easybank-landing-page.jpg)
 
 [View Live Site](https://lukaszkus.github.io/easybank-landing-page/) | [Watch my code](https://github.com/lukaszkus/easybank-landing-page) | [Go to solution](https://www.frontendmentor.io/solutions/easybank-landing-page-using-sass-and-vanilla-js-_gXh6k8lG)
+
+#
+
+## 09. TODO App
+
+![screenshot](./assets/todo-app.png)
+
+[View Live Site](https://todo-fm.netlify.app/) | [Watch my code](https://github.com/lukaszkus/todo-app) | [Go to solution](https://www.frontendmentor.io/solutions/todo-app-made-with-reactjs-styledcomponents-and-firebase-EvXd7GwFt)
 
 #
 
